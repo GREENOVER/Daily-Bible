@@ -1,0 +1,28 @@
+PODS:
+  - FRadioPlayer (0.1.22)
+  - Kingfisher (7.1.1)
+  - SwiftLint (0.40.0)
+  - WaterfallGrid (0.4.0)
+
+DEPENDENCIES:
+  - FRadioPlayer
+  - Kingfisher
+  - SwiftLint
+  - WaterfallGrid
+
+SPEC REPOS:
+  trunk:
+    - FRadioPlayer
+    - Kingfisher
+    - SwiftLint
+    - WaterfallGrid
+
+SPEC CHECKSUMS:
+  FRadioPlayer: 7c6173cc44a3be39a9419abd3a931d9223e175e4
+  Kingfisher: f738f9c4a3415823b8e2985d10aa2d6a9f37bc4d
+  SwiftLint: 4154893c73a4c52d6240195507eb7a3e3c64087e
+  WaterfallGrid: 568881d69470c0ffe635732dfafd859db1365989
+
+PODFILE CHECKSUM: 8c2b8bdd3369e6727b155907af8f953ef4adc30e
+
+COCOAPODS: 1.10.1
